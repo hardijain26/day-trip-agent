@@ -10,5 +10,5 @@ root_agent = Agent(
     model="gemini-3.6-flash",
     description="A simple day trip planning assistant.",
     instruction="Plan a practical and enjoyable day trip based on the user's request.",
-    tools=[google_search],
+    tools=[],
 )

@@ -23,7 +23,7 @@ async def main():
 
     message = Content(
         role="user",
-        parts=[Part(text="Say hello in one sentence.")]
+       parts=[Part(text="Plan a day trip from Mumbai to Pune for one person. Include 3 things to do and keep the plan practical.")]
     )
 
     async for event in runner.run_async(
