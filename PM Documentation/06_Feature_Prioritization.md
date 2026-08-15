@@ -116,7 +116,7 @@ Capabilities that introduce significant integration complexity, transaction risk
 
 **Why:** These inputs provide enough signal to create meaningful personalization without creating a complex onboarding experience.
 
----
+
 
 ### 2. Current Information vs. Response Speed
 
@@ -124,7 +124,6 @@ Capabilities that introduce significant integration complexity, transaction risk
 
 **Why:** Not every piece of information requires a search. Excessive searching can increase latency and complexity without improving the outcome.
 
----
 
 ### 3. Recommendation Quantity vs. Recommendation Quality
 
@@ -132,7 +131,6 @@ Capabilities that introduce significant integration complexity, transaction risk
 
 **Why:** The product's value comes from reducing decision effort, not giving the user another long list to research.
 
----
 
 ### 4. Evaluation Quality vs. MVP Complexity
 
@@ -140,7 +138,6 @@ Capabilities that introduce significant integration complexity, transaction risk
 
 **Why:** The agent must demonstrate meaningful decision support, but complex optimization can be developed after the core planning behavior is validated.
 
----
 
 ### 5. Budget Accuracy vs. MVP Complexity
 
@@ -148,7 +145,6 @@ Capabilities that introduce significant integration complexity, transaction risk
 
 **Why:** The MVP needs to demonstrate budget-aware planning, while precise dynamic cost optimization can be developed later.
 
----
 
 ### 6. Current Information vs. Data Coverage
 
@@ -156,7 +152,6 @@ Capabilities that introduce significant integration complexity, transaction risk
 
 **Why:** More data does not automatically create a better plan. The objective is to provide enough reliable information to support a useful decision.
 
----
 
 ### 7. Single Agent vs. Multi-Agent Architecture
 
@@ -164,7 +159,6 @@ Capabilities that introduce significant integration complexity, transaction risk
 
 **Why:** A multi-agent architecture may eventually improve specialization, but it introduces additional complexity before the core user value has been validated.
 
----
 
 ### 8. Automation vs. User Control
 
@@ -172,7 +166,6 @@ Capabilities that introduce significant integration complexity, transaction risk
 
 **Why:** The product should reduce planning effort without becoming overly prescriptive or making irreversible decisions on the user's behalf.
 
----
 
 ### 9. Iterative Refinement vs. Restarting the Planning Process
 
@@ -180,7 +173,6 @@ Capabilities that introduce significant integration complexity, transaction risk
 
 **Why:** Refinement is part of the core agent experience and allows the product to adapt to changing user preferences while preserving valid constraints.
 
----
 
 ## 🧭 5. Feature Prioritization Decision Rules
 
@@ -203,6 +195,10 @@ Before adding a capability to the MVP, ask:
 
 - **If yes:** Consider deferring it.
 - **If no:** It is likely a core MVP capability.
+
+### Product Principle
+
+**Prioritize learning and user value over feature volume.**
 
 ### Product Principle
 
