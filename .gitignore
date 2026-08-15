@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Google ADK local/runtime files
+.adk/
+
+# macOS
+.DS_Store
+
+# Local notes / temporary files
+NOTES.md
