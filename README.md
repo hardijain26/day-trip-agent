@@ -67,11 +67,13 @@ The prototype can be explored through the Google ADK web interface.
 
 ### 💬 Day-Trip Planning
 
-![Day-trip planning demo](demo/day-trip-planning.png)
+<img width="1437" height="617" alt="Itienary 1" src="https://github.com/user-attachments/assets/efec2f3b-92bf-4078-9bed-d38419950747" />
+
 
 ### 🗺️ Generated Itinerary
 
-![Generated itinerary](demo/generated-itinerary.png)
+<img width="1118" height="574" alt="Itienary 2" src="https://github.com/user-attachments/assets/185bbd6e-ba33-4d9b-ba85-145e5198f9f0" />
+
 
 ---
 
@@ -84,7 +86,7 @@ The product concept is supported by a lightweight working prototype using:
 - Google Search
 - Python
 
-The implementation is intentionally lightweight. The focus of the project is on **product design, agent behavior, decision-making, and AI product considerations** rather than software engineering.
+The implementation is intentionally lightweight. The project focuses on agent behavior, decision-making, and AI product considerations rather than software engineering.
 
 ---
 
